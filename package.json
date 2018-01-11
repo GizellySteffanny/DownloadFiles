@@ -1,0 +1,29 @@
+{
+  "name": "downloadfileviaajaxwithjquery",
+  "version": "1.0.0",
+  "description": "Download Files using Ajax with jQuery",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GizellySteffanny/DownloadFiles.git"
+  },
+  "keywords": [
+    "Download",
+    "Files",
+    "Download",
+    "files",
+    "JS"
+  ],
+  "author": "Gizelly Stefanny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GizellySteffanny/DownloadFiles/issues"
+  },
+  "homepage": "https://github.com/GizellySteffanny/DownloadFiles#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
